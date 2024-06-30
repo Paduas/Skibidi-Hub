@@ -1390,7 +1390,7 @@ KeySystem.BorderColor3 = Color3.fromRGB(30, 30, 30)
 KeySystem.BorderSizePixel = 0
 KeySystem.Position = UDim2.new(0, 0, 2, -20)
 KeySystem.Size = UDim2.new(1, 0, 1, 40)
-KeySystem.Visible = false
+KeySystem.Visible = true
 
 MainTitle.Name = "MainTitle"
 MainTitle.Parent = KeySystem
@@ -1400,7 +1400,7 @@ MainTitle.BorderSizePixel = 0
 MainTitle.Position = UDim2.new(0, 7, 0, 88)
 MainTitle.Size = UDim2.new(1, -14, 0, 21)
 MainTitle.Font = Enum.Font.GothamBold
-MainTitle.Text = "[Vega X] Key System"
+MainTitle.Text = "[Skibidi Hub] Key System"
 MainTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 MainTitle.TextSize = 18.000
 MainTitle.TextYAlignment = Enum.TextYAlignment.Top
@@ -1438,7 +1438,7 @@ UICorner_37.Parent = TextBox_2
 
 ApproveKeyB.Name = "ApproveKeyB"
 ApproveKeyB.Parent = KeySystem
-ApproveKeyB.Active = false
+ApproveKeyB.Active = true
 ApproveKeyB.AnchorPoint = Vector2.new(0.5, 1)
 ApproveKeyB.BackgroundColor3 = Color3.fromRGB(195, 57, 57)
 ApproveKeyB.BorderSizePixel = 0
